@@ -1,0 +1,14 @@
+local window = PabloLib:Create(
+"Name", -- Name here.
+"Enabled", -- If you want draggable set here to "Enabled" if you dont want set to "Disabled".
+"p" -- You can put any shifthere to open close.
+)local PabloLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/BatuKvi123/PabloLibV3/main/PabloLibV3"))()
+local tab1 = window:CreateTab("Tab1")
+--tabs--
+local tab1=windows:CreateTab("Blox fruits auto bounty")("Auto Bounty
+
+---buttons--
+loadstring(game:HttpGet("link"))();
+tab1:CreateButton("AutoKill all sever hop", function()
+loadstring(game:HttpGet("Link"))();https://pastebin.com/raw/wY3A101C"))();
+end)
